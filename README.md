@@ -29,6 +29,7 @@
        [PC1.2]   [PC1.4]
 
 ```
+<img width="867" height="387" alt="image" src="https://github.com/user-attachments/assets/d43421b1-ab08-46d8-8be0-d85b0b24caf0" />
 
 ### שאלה 1: כמה תחומי התנגשות (Collision Domains) קיימים בטופולוגיה זו?
 
@@ -111,6 +112,7 @@
 [PC2.2]             [PC2.4]
 
 ```
+<img width="393" height="358" alt="image" src="https://github.com/user-attachments/assets/e927fa1a-3fe0-42e0-be6f-9bee541c1d7f" />
 
 ### שאלה 1: כמה תחומי התנגשות (Collision Domains) קיימים בטופולוגיה זו?
 
